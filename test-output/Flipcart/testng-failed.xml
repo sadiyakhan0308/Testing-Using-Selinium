@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Flipcart]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.wp.Read">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="browser"/>
+          <include name="readCredentials"/>
+          <include name="sikuliMethod"/>
+        </methods>
+      </class> <!-- com.wp.Read -->
+    </classes>
+  </test> <!-- Test(failed) -->
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="com.wp.Show">
+        <methods>
+          <include name="d"/>
+        </methods>
+      </class> <!-- com.wp.Show -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Flipcart] -->

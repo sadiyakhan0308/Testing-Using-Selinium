@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/jar_files/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/commons-net-3.4.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/dx-1.7.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/jgoodies-common-1.8.1.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/jgoodies-forms-1.9.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/jintellitype-1.3.7.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/jxgrabkey-1.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/jython-standalone-2.7.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/qtaste-kernel-3.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/sikuli-3.0.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/sikulixlibslux-1.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/sikulixlibswin-1.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/syntaxpane-1.1.4.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar_files/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="G:/jar/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="G:/jar/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
